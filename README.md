@@ -1,5 +1,4 @@
-# 🏦 Task 1: Term Deposit Subscription Prediction
-### DevelopersHub Corporation — Data Science & Analytics Internship
+# 🏦 Term Deposit Subscription Prediction
 
 ---
 
@@ -139,4 +138,3 @@ jupyter notebook Task1_Term_Deposit_Prediction.ipynb
 
 ---
 
-*DevelopersHub Corporation | Data Science & Analytics Internship | Task 1 of 5*
